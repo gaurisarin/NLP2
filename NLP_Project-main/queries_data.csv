@@ -1,0 +1,658 @@
+Queries,Intent,Entity
+Who directed Inception?,Director,Inception:MOVIE_TITLE
+Who was behind the direction of The Hunger Games?,Director,The Hunger Games:MOVIE_TITLE
+Who was the creative mind directing Divergent?,Director,Divergent:MOVIE_TITLE
+Who had the directoral duties for The Princess Diaries?,Director,The Princess Diaries:MOVIE_TITLE
+I'm curious who was in charge of directing the movie Romeo and Juliet?,Director,Romeo and Juliet:MOVIE_TITLE
+Could you inform me of the director for Frozen?,Director,Frozen:MOVIE_TITLE
+Who took on the role of director for Tangled?,Director,Tangled:MOVIE_TITLE
+Who orchestrated the direction of The Princess and the Frog?,Director,The Princess and the Frog:MOVIE_TITLE
+Can you identify the director who brought Good Luck Charlie - It's Christmas to life?,Director,Good Luck Charlie - It's Christmas:MOVIE_TITLE
+I am curious about the filmmaker who directed Lemonade Mouth. Who was it?,Director,Lemonade Mouth:MOVIE_TITLE
+Who masterminded the direction of Starstruck?,Director,Starstruck:MOVIE_TITLE
+Could you provide me the name of the individual who directed Frozen 2?,Director,Frozen 2:MOVIE_TITLE
+Who steered the direction for the movie Moana?,Director,Moana:MOVIE_TITLE
+Who was the leading directoral talent behind Cinderella?,Director,Cinderella:MOVIE_TITLE
+Who was the chief director for The Little Mermaid?,Director,The Little Mermaid:MOVIE_TITLE
+In Bambi who was responsible for the films direction?,Director,Bambi:MOVIE_TITLE
+Who had the creative helm behind directing Dumbo?,Director,Dumbo:MOVIE_TITLE
+"I'm eager to learn, who commanded the direction of Peter Pan?",Director,Peter Pan:MOVIE_TITLE
+Who was the director for Melody Time ,Director,Melody Time:MOVIE_TITLE
+Who carried the directoral baton for The Sword in the Stone?,Director,The Sword in the Stone:MOVIE_TITLE
+Could you enlighten me about the director for A Christmas Carol?,Director,A Christmas Carol:MOVIE_TITLE
+"I'm looking for the name of the director who crafted Monkeys, Go Home?",Director,"Monkeys, Go Home:MOVIE_TITLE"
+Who was the architect behind the direction of The Jungle Book?,Director,The Jungle Book:MOVIE_TITLE
+"In the making of 'King of the Grizzlies', who was the guiding directorial hand?",Director,King of the Grizzlies:MOVIE_TITLE
+Who orchestrated the cinematic direction of 'Chicken Little'?,Director,Chicken Little:MOVIE_TITLE
+Can you disclose who directed the narrative of 'Cars?,Director,Cars:MOVIE_TITLE
+Who was the principal director for the movie 'Ratatouille'?,Director,Ratatouille:MOVIE_TITLE
+I'm seeking the identity of the director for 'Hannah Montana The Movie'. Any ideas?,Director,Hannah Montana The Movie:MOVIE_TITLE
+Who took the directorial reigns for the creation of 'Gnomeo & Juliet?,Director,Gnomeo & Juliet:MOVIE_TITLE
+I'm interested in knowing who had the creative control in directing 'Inception'.,Director,Inception:MOVIE_TITLE
+I'd appreciate knowing who was in command of the direction for 'Inception'.,Director,Inception:MOVIE_TITLE
+ Can you please tell me who the director for 'Secret of the Wings' was?,Director,Secret of the Wings:MOVIE_TITLE
+"Who was the captain of the ship in directing ""Pirates of the Caribbean""?",Director,Pirates of the Caribbean:MOVIE_TITLE
+Who orchestrated the visual and narrative direction of 'Monsters University'?,Director,Monsters University:MOVIE_TITLE
+Can you identify the directorial genius behind 'The Pirate Fairy'?,Director,The Pirate Fairy:MOVIE_TITLE
+"I'd like to know, who led the direction of 'Toy Story'?",Director,Toy Story:MOVIE_TITLE
+Who managed the direction of 'Brave'?,Director,Brave:MOVIE_TITLE
+Who masterminded the film direction of 'Zootopia'?,Director,Zootopia:MOVIE_TITLE
+"In 'Tinker Bell and The Legend of the NeverBeast', who took on the directorial role?",Director,Tinker Bell and The Legend of the NeverBeast:MOVIE_TITLE
+Who led the cinematic direction for Aladdin?,Director,Aladdin:MOVIE_TITLE
+Who navigated the direction of 'The Emperor's New Groove'?,Director,The Emperor's New Groove:MOVIE_TITLE
+I'd like to find out who was the directorial mind behind 'Lilo & Stitch'?,Director,Lilo & Stitch:MOVIE_TITLE
+Who captained the direction of 'Tarzan'?,Director,Tarzan:MOVIE_TITLE
+Can you disclose the guiding hand in directing 'Hercules'?,Director,Hercules:MOVIE_TITLE
+I'm curious about the director of 'The Hunchback of Notre Dame'. Who was it?,Director,The Hunchback of Notre Dame:MOVIE_TITLE
+I'm seeking the director of 'Beauty and the Beast'. Any leads?,Director,Beauty and the Beast:MOVIE_TITLE
+Who was responsible for bringing 'The Incredibles' to the screen as director?,Director,The Incredibles:MOVIE_TITLE
+Who had the vision and directed 'Coco'?,Director,Coco:MOVIE_TITLE
+Who orchestrated the direction for 'The Lion King'?,Director,The Lion King:MOVIE_TITLE
+Can you share the director's name for 'Tangled'?,Director,Tangled:MOVIE_TITLE
+Who was at the directorial forefront of 'Mulan'?,Director,Mulan:MOVIE_TITLE
+I'm interested in the director of 'Onward'. Who was it?,Director,Onward:MOVIE_TITLE
+Could you provide the name of the director for 'Big Hero 6'?,Director,Big Hero 6:MOVIE_TITLE
+Who was the creative director for 'Sleeping Beauty'?,Director,Sleeping Beauty:MOVIE_TITLE
+Can you enlighten me on who directed 'Lady and the Tramp'?,Director,Lady and the Tramp:MOVIE_TITLE
+I'm curious about the director of 'The Hunchback of Notre Dame'. Who was it?,Director,The Hunchback of Notre Dame:MOVIE_TITLE
+Who was the principal director behind 'Atlantis - The Lost Empire'?,Director,Atlantis - The Lost Empire:MOVIE_TITLE
+Who was the mastermind directing 'Oliver & Company'?,Director,Oliver & Company:MOVIE_TITLE
+Can you reveal the director of 'Meet the Robinsons'?,Director,Meet the Robinsons:MOVIE_TITLE
+Who was the visionary behind 'Brother Bear's direction?,Director,Brother Bear:MOVIE_TITLE
+Who crafted the direction for 'Big Hero 6'?,Director,Big Hero 6:MOVIE_TITLE
+Who managed to helm the direction of 'Raya and the Last Dragon'?,Director,Raya and the Last Dragon:MOVIE_TITLE
+I'm seeking the directorial mind behind 'Luca'. Any ideas?,Director,Luca:MOVIE_TITLE
+Who was responsible for 'Winnie the Pooh's cinematic direction?,Director,Winnie the Pooh:MOVIE_TITLE
+Could you tell me who was in the director's chair for 'Zootopia'?,Director,Zootopia:MOVIE_TITLE
+I'd appreciate insights into who led 'Moana's direction.,Director,Moana:MOVIE_TITLE
+Can you enlighten me about who directed '101 Dalmatians'?,Director,101 Dalmatians:MOVIE_TITLE
+"I'd like to know, who took on the directorial role for 'Cinderella'?",Director,Cinderella:MOVIE_TITLE
+Who was the director for 'La La Land'?,Director,La La Land:MOVIE_TITLE
+Who was the visionary behind the direction of 'Bolt'?,Director,Bolt:MOVIE_TITLE
+Can you reveal the director of 'The Princess and the Frog'?,Director,The Princess and the Frog:MOVIE_TITLE
+Who orchestrated the direction of 'Chicken Little'?,Director,Chicken Little:MOVIE_TITLE
+"I'd like to know, who was in charge of directing 'Treasure Planet'?",Director,Treasure Planet:MOVIE_TITLE
+Can you tell me who directed 'Pocahontas'?,Director,Pocahontas:MOVIE_TITLE
+Could you provide the name of the individual who directed 'The Great Mouse Detective'?,Director,The Great Mouse Detective:MOVIE_TITLE
+Can you disclose who was in the director's chair for 'The Sword in the Stone'?,Director,The Sword in the Stone:MOVIE_TITLE
+Could you inform me who directed the whimsical 'Fantasia 2000'?,Director,Fantasia 2000:MOVIE_TITLE
+I'm seeking the director of 'Hercules' (1997). Any leads?,Director,Hercules:MOVIE_TITLE
+Who was at the helm of directing the thrilling 'Jaws'?,Director,Jaws:MOVIE_TITLE
+Could you inform me who directed the dramatic 'Schindler's List'?,Director,Schindler's List:MOVIE_TITLE
+Who masterminded the direction of the captivating 'Gone with the Wind'?,Director,Gone with the Wind:MOVIE_TITLE
+Who was the visionary behind the direction of 'The Godfather'?,Director,The Godfather:MOVIE_TITLE
+Who orchestrated the direction of the poignant 'Forrest Gump'?,Director,Forrest Gump:MOVIE_TITLE
+Who was responsible for directing the gripping 'Fight Club'?,Director,Fight Club:MOVIE_TITLE
+Could you reveal who orchestrated the direction of the iconic 'Titanic'?,Director,Titanic:MOVIE_TITLE
+Can you disclose who was in the director's chair for 'Inglourious Basterds'?,Director,Inglourious Basterds:MOVIE_TITLE
+I'm interested in the director of the gripping tale 'Dunkirk'. Who was it?,Director,Dunkirk:MOVIE_TITLE
+Who was responsible for the direction of the comedy 'The Hangover'?,Director,The Hangover:MOVIE_TITLE
+I'm eager to learn who directed the animated feature 'Coco'. Can you tell me?,Director,Coco:MOVIE_TITLE
+"I'd like to know, who was behind the camera for the thriller 'Gone Girl'?",Director,Gone Girl:MOVIE_TITLE
+Could you inform me who directed the emotional 'Manchester by the Sea'?,Director,Manchester by the Sea:MOVIE_TITLE
+Who masterminded the direction of the musical 'Moulin Rouge!'?,Director,Moulin Rouge:MOVIE_TITLE
+Could you enlighten me about the director for the adventurous 'Pirates of the Caribbean: Dead Man's Chest'?,Director,Pirates of the Caribbean:MOVIE_TITLE
+Who took the directorial reins for the heartfelt 'The Pursuit of Happyness'?,Director,The Pursuit of Happyness:MOVIE_TITLE
+Can you tell me who was behind the lens for the intense 'Black Swan'?,Director,Black Swan:MOVIE_TITLE
+Who orchestrated the direction of the captivating 'The Imitation Game'?,Director,The Imitation Game:MOVIE_TITLE
+"I'd like to know, who steered the narrative for the romantic drama 'The Notebook'?",Director,The Notebook:MOVIE_TITLE
+Who took on the directorial role for the iconic 'Breakfast at Tiffany's'?,Director,Breakfast at Tiffany's:MOVIE_TITLE
+Could you enlighten me about the director for the fantasy 'Harry Potter and the Prisoner of Azkaban'?,Director,Harry Potter and the Prisoner of Azkaban:MOVIE_TITLE
+Who was the creative genius behind the epic 'Gladiator'?,Director,Gladiator:MOVIE_TITLE
+Can you tell me who was behind the lens for the intense 'Black Swan'?,Director,Black Swan:MOVIE_TITLE
+Who is the lead actor in Titanic?,Lead Actor,Titanic:MOVIE_TITLE
+Who stars as the lead in 'The Matrix'?,Lead Actor,The Matrix:MOVIE_TITLE
+Can you tell me the leading actor in 'Forrest Gump'?,Lead Actor,Forrest Gump:MOVIE_TITLE
+"I'm curious, who is the main actor in 'Titanic'?",Lead Actor,Titanic:MOVIE_TITLE
+Who played the lead role in 'Gladiator'?,Lead Actor,Gladiator:MOVIE_TITLE
+Who is the principal actor in 'The Shawshank Redemption'?,Lead Actor,The Shawshank Redemption:MOVIE_TITLE
+I'd like to know the lead actor in 'Inception'.,Lead Actor,Inception:MOVIE_TITLE
+Who took the lead in 'Jurassic Park'?,Lead Actor,Jurassic Park:MOVIE_TITLE
+Who is the leading man in 'Iron Man'?,Lead Actor,Iron Man:MOVIE_TITLE
+Can you identify the lead actor in 'Pirates of the Caribbean'?,Lead Actor,Pirates of the Caribbean:MOVIE_TITLE
+Who was the lead actor in 'The Dark Knight'?,Lead Actor,The Dark Knight:MOVIE_TITLE
+Who is the main actor in 'High School Musical'?,Lead Actor,High School Musical:MOVIE_TITLE
+Can you tell me who the lead in 'Camp Rock' is?,Lead Actor,Camp Rock:MOVIE_TITLE
+"I'm curious, who stars in the leading role of 'The Cheetah Girls'?",Lead Actor,The Cheetah Girls:MOVIE_TITLE
+Who played the primary character in 'Descendants'?,Lead Actor,Descendants:MOVIE_TITLE
+Who was cast as the lead in 'Lemonade Mouth'?,Lead Actor,Lemonade Mouth:MOVIE_TITLE
+Who leads the cast in 'Halloweentown'?,Lead Actor,Halloweentown:MOVIE_TITLE
+I'd like to know the leading actor in 'Teen Beach Movie'.,Lead Actor,Teen Beach Movie:MOVIE_TITLE
+Who took on the lead role in 'Let It Shine'?,Lead Actor,Let It Shine:MOVIE_TITLE
+Can you identify the main actor in 'Kim Possible Movie: So the Drama'?,Lead Actor,Kim Possible Movie: So the Drama:MOVIE_TITLE
+Who holds the leading role in 'Zapped'?,Lead Actor,Zapped:MOVIE_TITLE
+Who is the lead voice actor in 'The Lion King'?,Lead Actor,The Lion King:MOVIE_TITLE
+Can you tell me who voiced the main character in 'Moana'?,Lead Actor,Moana:MOVIE_TITLE
+Who played the leading role in 'Aladdin' (1992)?,Lead Actor,Aladdin:MOVIE_TITLE
+Who voices the protagonist in 'Mulan'?,Lead Actor,Mulan:MOVIE_TITLE
+"I'm curious, who is the lead actor in 'Zootopia'?",Lead Actor,Zootopia:MOVIE_TITLE
+Who provided the voice for the lead character in 'Frozen'?,Lead Actor,Frozen:MOVIE_TITLE
+Who is the leading voice in 'Finding Nemo'?,Lead Actor,Finding Nemo:MOVIE_TITLE
+Can you identify the lead voice actor in 'Toy Story'?,Lead Actor,Toy Story:MOVIE_TITLE
+Who was the lead actor in 'Beauty and the Beast' (1991)?,Lead Actor,Beauty and the Beast:MOVIE_TITLE
+Who voiced the main character in 'The Little Mermaid'?,Lead Actor,The Little Mermaid:MOVIE_TITLE
+Who is the lead actor in 'The Notebook'?,Lead Actor,The Notebook:MOVIE_TITLE
+Can you tell me who starred in 'Pride and Prejudice'?,Lead Actor,Pride and Prejudice:MOVIE_TITLE
+Who played the leading role in 'La La Land'?,Lead Actor,La La Land:MOVIE_TITLE
+Who portrays the protagonist in 'Titanic'?,Lead Actor,Titanic:MOVIE_TITLE
+"I'm curious, who is the lead actor in 'A Walk to Remember'?",Lead Actor,A Walk to Remember:MOVIE_TITLE
+Who provided the lead performance in 'Romeo + Juliet' (1996)?,Lead Actor,Romeo + Juliet:MOVIE_TITLE
+Who is the leading star in 'Eternal Sunshine of the Spotless Mind'?,Lead Actor,Eternal Sunshine of the Spotless Mind:MOVIE_TITLE
+Can you identify the lead actor in 'Before Sunrise'?,Lead Actor,Before Sunrise:MOVIE_TITLE
+Who was the lead actor in 'The Fault in Our Stars'?,Lead Actor,The Fault in Our Stars:MOVIE_TITLE
+Who plays the main character in 'Call Me by Your Name'?,Lead Actor,Call Me by Your Name:MOVIE_TITLE
+"Who stars as the lead in 'Crazy, Stupid, Love'?",Lead Actor,"Crazy, Stupid, Love:MOVIE_TITLE"
+Can you tell me the leading actor in '10 Things I Hate About You'?,Lead Actor,10 Things I Hate About You:MOVIE_TITLE
+"I'm curious, who is the main actor in 'The Proposal'?",Lead Actor,The Proposal:MOVIE_TITLE
+Who played the lead role in 'Notting Hill'?,Lead Actor,Notting Hill:MOVIE_TITLE
+Who is the principal actor in 'When Harry Met Sally'?,Lead Actor,When Harry Met Sally:MOVIE_TITLE
+I'd like to know the lead actor in 'Silver Linings Playbook'.,Lead Actor,Silver Linings Playbook:MOVIE_TITLE
+Who took the lead in 'Bridget Jones's Diary'?,Lead Actor,Bridget Jones's Diary:MOVIE_TITLE
+Who is the leading man in 'Forgetting Sarah Marshall'?,Lead Actor,Forgetting Sarah Marshall:MOVIE_TITLE
+Can you identify the lead actor in 'Love Actually'?,Lead Actor,Love Actually:MOVIE_TITLE
+Who was the lead actor in 'The Big Sick'?,Lead Actor,The Big Sick:MOVIE_TITLE
+Who is the lead actor in 'Die Hard'?,Lead Actor,Die Hard:MOVIE_TITLE
+Can you tell me who starred in 'Mad Max: Fury Road'?,Lead Actor,Mad Max: Fury Road:MOVIE_TITLE
+Who played the main role in 'John Wick'?,Lead Actor,John Wick:MOVIE_TITLE
+"I'm curious, who is the lead in 'The Bourne Identity'?",Lead Actor,The Bourne Identity:MOVIE_TITLE
+Who was the principal actor in 'Mission - Impossible'?,Lead Actor,Mission - Impossible:MOVIE_TITLE
+I'd like to know the lead actor in 'Gladiator'.,Lead Actor,Gladiator:MOVIE_TITLE
+Who took on the leading role in 'The Dark Knight'?,Lead Actor,The Dark Knight:MOVIE_TITLE
+Who is the leading man in 'Lethal Weapon'?,Lead Actor,Lethal Weapon:MOVIE_TITLE
+Can you identify the lead actor in 'The Terminator'?,Lead Actor,The Terminator:MOVIE_TITLE
+Who was the lead actor in 'Indiana Jones and the Last Crusade'?,Lead Actor,Indiana Jones and the Last Crusade:MOVIE_TITLE
+Who is the lead actor in 'Gone with the Wind'?,Lead Actor,Gone with the Wind:MOVIE_TITLE
+Can you tell me who starred in 'Casablanca'?,Lead Actor,Casablanca:MOVIE_TITLE
+Who played the main role in 'To Kill a Mockingbird'?,Lead Actor,To Kill a Mockingbird:MOVIE_TITLE
+"I'm curious, who was the leading actor in 'The Grapes of Wrath'?",Lead Actor,The Grapes of Wrath:MOVIE_TITLE
+Who was in the lead role for 'Rebel Without a Cause'?,Lead Actor,Rebel Without a Cause:MOVIE_TITLE
+Can you identify the lead actor in 'Citizen Kane'?,Lead Actor,Citizen Kane:MOVIE_TITLE
+Who led the cast in 'The Maltese Falcon'?,Lead Actor,The Maltese Falcon:MOVIE_TITLE
+Who was the principal actor in 'It's a Wonderful Life'?,Lead Actor,It's a Wonderful Life:MOVIE_TITLE
+I'd like to know the lead actor in 'Singin' in the Rain'.,Lead Actor,Singin' in the Rain:MOVIE_TITLE
+Who took the leading role in 'Sunset Boulevard'?,Lead Actor,Sunset Boulevard:MOVIE_TITLE
+Who stars as the lead in 'The Great Gatsby' (2013)?,Lead Actor,The Great Gatsby:MOVIE_TITLE
+Can you tell me the leading actor in 'Pride and Prejudice' (2005)?,Lead Actor,Pride and Prejudice:MOVIE_TITLE
+"I'm curious, who is the main actor in 'Harry Potter and the Sorcerer's Stone'?",Lead Actor,Harry Potter and the Sorcerer's Stone:MOVIE_TITLE
+Who played the lead role in 'The Hunger Games'?,Lead Actor,The Hunger Games:MOVIE_TITLE
+Who is the principal actor in 'Gone Girl'?,Lead Actor,Gone Girl:MOVIE_TITLE
+I'd like to know the lead actor in 'The Lord of the Rings: The Fellowship of the Ring'.,Lead Actor,The Lord of the Rings: The Fellowship of the Ring:MOVIE_TITLE
+Who took the lead in 'The Shawshank Redemption'?,Lead Actor,The Shawshank Redemption:MOVIE_TITLE
+Who is the leading man in 'To Kill a Mockingbird'?,Lead Actor,To Kill a Mockingbird:MOVIE_TITLE
+Can you identify the lead actor in 'Fight Club'?,Lead Actor,Fight Club:MOVIE_TITLE
+Who was the lead actor in 'The Shining'?,Lead Actor,The Shining:MOVIE_TITLE
+Who is the lead actor in 'The Shining'?,Lead Actor,The Shining:MOVIE_TITLE
+Can you tell me who starred in 'Halloween' (1978)?,Lead Actor,Halloween:MOVIE_TITLE
+Who played the main role in 'Get Out'?,Lead Actor,Get Out:MOVIE_TITLE
+"I'm curious, who was the leading actor in 'It' (2017)?",Lead Actor,It:MOVIE_TITLE
+Who was in the lead role for 'A Nightmare on Elm Street'?,Lead Actor,A Nightmare on Elm Street:MOVIE_TITLE
+Can you identify the lead actor in 'The Exorcist'?,Lead Actor,The Exorcist:MOVIE_TITLE
+Who led the cast in 'Hereditary'?,Lead Actor,Hereditary:MOVIE_TITLE
+Who was the principal actor in 'Psycho' (1960)?,Lead Actor,Psycho:MOVIE_TITLE
+I'd like to know the lead actor in 'The Conjuring'.,Lead Actor,The Conjuring:MOVIE_TITLE
+Who took the leading role in 'Alien' (1979)?,Lead Actor,Alien:MOVIE_TITLE
+Who stars as the lead in 'Gone with the Wind'?,Lead Actor,Gone with the Wind:MOVIE_TITLE
+Can you tell me the leading actor in 'Casablanca'?,Lead Actor,Casablanca:MOVIE_TITLE
+Who played the main role in 'On the Waterfront'?,Lead Actor,On the Waterfront:MOVIE_TITLE
+"I'm curious, who was the leading actor in 'A Streetcar Named Desire'?",Lead Actor,A Streetcar Named Desire:MOVIE_TITLE
+Who was in the lead role for 'The Godfather'?,Lead Actor,The Godfather:MOVIE_TITLE
+Can you identify the lead actor in '12 Angry Men'?,Lead Actor,12 Angry Men:MOVIE_TITLE
+Who led the cast in 'To Kill a Mockingbird'?,Lead Actor,To Kill a Mockingbird:MOVIE_TITLE
+Who was the principal actor in 'Schindler's List'?,Lead Actor,Schindler's List:MOVIE_TITLE
+I'd like to know the lead actor in 'Lawrence of Arabia'.,Lead Actor,Lawrence of Arabia:MOVIE_TITLE
+Who took the leading role in 'The Bridge on the River Kwai'?,Lead Actor,The Bridge on the River Kwai:MOVIE_TITLE
+When was The Godfather released?,Release Date,The Godfather:MOVIE_TITLE
+What is the release date of 'Inception'?,Release Date,Inception:MOVIE_TITLE
+Can you tell me when 'The Matrix' first premiered?,Release Date,The Matrix:MOVIE_TITLE
+When was 'Gone with the Wind' released?,Release Date,Gone with the Wind:MOVIE_TITLE
+I need to know the debut date of 'Jurassic Park'.,Release Date,Jurassic Park:MOVIE_TITLE
+What was the launch date for 'Titanic'?,Release Date,Titanic:MOVIE_TITLE
+When did 'Casablanca' hit the theaters?,Release Date,Casablanca:MOVIE_TITLE
+Can you specify the release timing of 'Avatar'?,Release Date,Avatar:MOVIE_TITLE
+I'm curious about the official release of 'Forrest Gump'.,Release Date,Forrest Gump:MOVIE_TITLE
+What date was 'Back to the Future' first shown?,Release Date,Back to the Future:MOVIE_TITLE
+When did 'The Shawshank Redemption' first come out?,Release Date,The Shawshank Redemption:MOVIE_TITLE
+What was the premiere date for 'Toy Story'?,Release Date,Toy Story:MOVIE_TITLE
+Can you provide the debut date of 'Finding Nemo'?,Release Date,Finding Nemo:MOVIE_TITLE
+When was 'The Incredibles' first shown in cinemas?,Release Date,The Incredibles:MOVIE_TITLE
+I need the launch year of 'WALL-E'. Do you know it?,Release Date,WALL-E:MOVIE_TITLE
+What's the official release date for 'Up'?,Release Date,Up:MOVIE_TITLE
+When did 'Inside Out' get released to the public?,Release Date,Inside Out:MOVIE_TITLE
+Could you tell me the release day of 'Coco'?,Release Date,Coco:MOVIE_TITLE
+"I'm looking for the release information on 'Monsters, Inc.'.",Release Date,"Monsters, Inc.:MOVIE_TITLE"
+Do you have the exact date 'Cars' hit the theaters?,Release Date,Cars:MOVIE_TITLE
+When was 'Ratatouille' officially released?,Release Date,Ratatouille:MOVIE_TITLE
+What date was 'The Lion King' originally released?,Release Date,The Lion King:MOVIE_TITLE
+Can you specify the release year of 'Aladdin' (1992)?,Release Date,Aladdin:MOVIE_TITLE
+When did 'Beauty and the Beast' first premiere?,Release Date,Beauty and the Beast:MOVIE_TITLE
+I'm interested in the debut of 'Frozen'. When was it?,Release Date,Frozen:MOVIE_TITLE
+What's the official release date for 'Moana'?,Release Date,Moana:MOVIE_TITLE
+Do you know the release day for 'Tangled'?,Release Date,Tangled:MOVIE_TITLE
+When was 'The Little Mermaid' first shown in theaters?,Release Date,The Little Mermaid:MOVIE_TITLE
+Could you tell me when 'Mulan' was released?,Release Date,Mulan:MOVIE_TITLE
+I need the release information for 'Pocahontas'.,Release Date,Pocahontas:MOVIE_TITLE
+When did 'Cinderella' (1950) officially hit the big screen?,Release Date,Cinderella:MOVIE_TITLE
+What's the release date for 'Pretty Woman'?,Release Date,Pretty Woman:MOVIE_TITLE
+When was '10 Things I Hate About You' first shown in theaters?,Release Date,10 Things I Hate About You:MOVIE_TITLE
+Can you tell me the debut year of 'The Proposal'?,Release Date,The Proposal:MOVIE_TITLE
+I need the official premiere date of 'Notting Hill'.,Release Date,Notting Hill:MOVIE_TITLE
+When did 'Love Actually' come out?,Release Date,Love Actually:MOVIE_TITLE
+Do you know the release day for 'Bridget Jones’s Diary'?,Release Date,Bridget Jones’s Diary:MOVIE_TITLE
+What date was 'When Harry Met Sally' released?,Release Date,When Harry Met Sally:MOVIE_TITLE
+"I'm looking for the release information on 'Crazy, Stupid, Love'.",Release Date,"Crazy, Stupid, Love:MOVIE_TITLE"
+Could you tell me when 'Silver Linings Playbook' was first available?,Release Date,Silver Linings Playbook:MOVIE_TITLE
+What's the official launch date of 'My Big Fat Greek Wedding'?,Release Date,My Big Fat Greek Wedding:MOVIE_TITLE
+What was the official release date for 'Blade Runner'?,Release Date,Blade Runner:MOVIE_TITLE
+Can you tell me when 'The Matrix' first hit theaters?,Release Date,The Matrix:MOVIE_TITLE
+When did 'Inception' debut in cinemas?,Release Date,Inception:MOVIE_TITLE
+I'm curious about the premiere date of 'Interstellar'.,Release Date,Interstellar:MOVIE_TITLE
+What's the release day for 'Star Wars: A New Hope'?,Release Date,Star Wars: A New Hope:MOVIE_TITLE
+Do you know the launch date of 'Alien' (1979)?,Release Date,Alien:MOVIE_TITLE
+When was 'Back to the Future' officially released?,Release Date,Back to the Future:MOVIE_TITLE
+Could you tell me the release date for 'The Fifth Element'?,Release Date,The Fifth Element:MOVIE_TITLE
+I need the release information for 'Avatar'.,Release Date,Avatar:MOVIE_TITLE
+When did 'E.T. the Extra-Terrestrial' first premiere?,Release Date,E.T. the Extra-Terrestrial:MOVIE_TITLE
+What was the official release date for 'The Hunger Games'?,Release Date,The Hunger Games:MOVIE_TITLE
+Can you tell me when 'Blade Runner 2049' first hit theaters?,Release Date,Blade Runner 2049:MOVIE_TITLE
+When did 'Divergent' debut in cinemas?,Release Date,Divergent:MOVIE_TITLE
+When was 'The Giver' first shown in theaters?,Release Date,The Giver:MOVIE_TITLE
+Can you tell me when 'The Maze Runner' debuted?,Release Date,The Maze Runner:MOVIE_TITLE
+What day did 'Ender's Game' come out?,Release Date,Ender's Game:MOVIE_TITLE
+Do you know the premiere date of 'The Host'?,Release Date,The Host:MOVIE_TITLE
+"When did 'Insurgent', the sequel to 'Divergent', get released?",Release Date,Insurgent:MOVIE_TITLE
+Could you provide the release information for 'The 5th Wave'?,Release Date,The 5th Wave:MOVIE_TITLE
+I'm looking for the debut date of 'Ready Player One'.,Release Date,Ready Player One:MOVIE_TITLE
+When was 'Mortal Engines' officially launched?,Release Date,Mortal Engines:MOVIE_TITLE
+Do you know when 'Twilight' first came out?,Release Date,Twilight:MOVIE_TITLE
+When did 'The Fault in Our Stars' hit theaters?,Release Date,The Fault in Our Stars:MOVIE_TITLE
+What was the launch year for 'Paper Towns'?,Release Date,Paper Towns:MOVIE_TITLE
+Could you tell me the release day of 'City of Bones'?,Release Date,City of Bones:MOVIE_TITLE
+I need the release information for 'Beautiful Creatures'.,Release Date,Beautiful Creatures:MOVIE_TITLE
+When was 'Percy Jackson & the Olympians: The Lightning Thief' released?,Release Date,Percy Jackson & the Olympians: The Lightning Thief:MOVIE_TITLE
+When did 'The Twilight Saga: Eclipse' debut in cinemas?,Release Date,The Twilight Saga: Eclipse:MOVIE_TITLE
+I'm curious about the premiere date of 'The Twilight Saga: Breaking Dawn – Part 1'.,Release Date,The Twilight Saga: Breaking Dawn – Part 1:MOVIE_TITLE
+What's the release day for 'The Twilight Saga: Breaking Dawn – Part 2'?,Release Date,The Twilight Saga: Breaking Dawn – Part 2:MOVIE_TITLE
+When was 'Eternal Shadows' officially released?,Release Date,Eternal Shadows:MOVIE_TITLE
+Can you tell me the release date of 'Beyond the Horizon'?,Release Date,Beyond the Horizon:MOVIE_TITLE
+What's the premiere date for 'City of Dreams'?,Release Date,City of Dreams:MOVIE_TITLE
+I'm curious about the debut date of 'The Last Stand'.,Release Date,The Last Stand:MOVIE_TITLE
+Do you know when 'Ocean's Echo' first came out?,Release Date,Ocean's Echo:MOVIE_TITLE
+When did 'Whispering Willows' hit theaters?,Release Date,Whispering Willows:MOVIE_TITLE
+What was the launch year for 'Starlight Voyage'?,Release Date,Starlight Voyage:MOVIE_TITLE
+Could you tell me the release day of 'Sands of Time'?,Release Date,Sands of Time:MOVIE_TITLE
+I need the release information for 'Echoes of the Past'.,Release Date,Echoes of the Past:MOVIE_TITLE
+When was 'Rising Phoenix' officially released?,Release Date,Rising Phoenix:MOVIE_TITLE
+What was the official release date for 'Barbie in the Nutcracker'?,Release Date,Barbie in the Nutcracker:MOVIE_TITLE
+Can you tell me when 'Barbie as Rapunzel' first premiered?,Release Date,Barbie as Rapunzel:MOVIE_TITLE
+When did 'Barbie: Princess Charm School' debut in cinemas?,Release Date,Barbie: Princess Charm School:MOVIE_TITLE
+I'm curious about the premiere date of 'Barbie in A Mermaid Tale'.,Release Date,Barbie in A Mermaid Tale:MOVIE_TITLE
+What's the release day for 'Barbie and the Diamond Castle'?,Release Date,Barbie and the Diamond Castle:MOVIE_TITLE
+Do you know the launch date of 'Barbie as The Island Princess'?,Release Date,Barbie as The Island Princess:MOVIE_TITLE
+When was 'Barbie: Fairytopia' officially released?,Release Date,Barbie: Fairytopia:MOVIE_TITLE
+Could you tell me the release date for 'Barbie of Swan Lake'?,Release Date,Barbie of Swan Lake:MOVIE_TITLE
+I need the release information for 'Barbie: Mariposa'.,Release Date,Barbie: Mariposa:MOVIE_TITLE
+When was 'Barbie and the Magic of Pegasus' first shown?,Release Date,Barbie and the Magic of Pegasus:MOVIE_TITLE
+What was the official release date for 'The Princess Diaries'?,Release Date,The Princess Diaries:MOVIE_TITLE
+Can you tell me when 'The Princess Bride' first premiered?,Release Date,The Princess Bride:MOVIE_TITLE
+When did 'The Little Mermaid' debut in cinemas?,Release Date,The Little Mermaid:MOVIE_TITLE
+I'm curious about the premiere date of 'Frozen'.,Release Date,Frozen:MOVIE_TITLE
+What's the release day for 'Cinderella' (1950)?,Release Date,Cinderella:MOVIE_TITLE
+Do you know the launch date of 'Moana'?,Release Date,Moana:MOVIE_TITLE
+When was 'Sleeping Beauty' officially released?,Release Date,Sleeping Beauty:MOVIE_TITLE
+Could you tell me the release date for 'Brave'?,Release Date,Brave:MOVIE_TITLE
+I need the release information for 'Beauty and the Beast' (1991).,Release Date,Beauty and the Beast:MOVIE_TITLE
+When was 'Aladdin' (1992) first shown?,Release Date,Aladdin:MOVIE_TITLE
+Recommend me a movie similar to Avatar,Synopsis,Avatar:MOVIE_TITLE
+Recommend a film similar to Star Wars.,Synopsis,Star Wars:MOVIE_TITLE
+I'm searching for a movie like The Matrix.,Synopsis,The Matrix:MOVIE_TITLE
+Can you recommend a film similar to Inception?,Synopsis,Inception:MOVIE_TITLE
+What's a movie similar to Frozen?,Synopsis,Frozen:MOVIE_TITLE
+What are some movies similar to The Hunger Games?,Synopsis,The Hunger Games:MOVIE_TITLE
+Recommend films that captures the essence of The Social Network.,Synopsis,The Social Network:MOVIE_TITLE
+Can you suggest a movie that's comparable to The Shawshank Redemption?,Synopsis,The Shawshank Redemption:MOVIE_TITLE
+Looking for movies that share similarities with The Terminator.,Synopsis,The Terminator:MOVIE_TITLE
+Movies which are reminiscent of Forrest Gump.,Synopsis,Forrest Gump:MOVIE_TITLE
+Any movies like The Shawshank Redemption you'd suggest?,Synopsis,The Shawshank Redemption:MOVIE_TITLE
+Can you recommend a film similar to Harry Potter?,Synopsis,Harry Potter:MOVIE_TITLE
+Any suggestions for a movie like The Godfather?,Synopsis,The Godfather:MOVIE_TITLE
+Got any recommendations for classics like The Lord of the Rings?,Synopsis,The Lord of the Rings:MOVIE_TITLE
+What movies are out there like Jurassic Park?,Synopsis,Jurassic Park:MOVIE_TITLE
+Point me to a comedic movie such as Deadpool.,Synopsis,Deadpool:MOVIE_TITLE
+Are there any films which are similar to Jaws from a horror perspective?,Synopsis,Jaws:MOVIE_TITLE
+I’m craving movies with the intensity of The Dark Knight.,Synopsis,The Dark Knight:MOVIE_TITLE
+Searching for a movie with a similar style to Fight Club. Any suggestions?,Synopsis,Fight Club:MOVIE_TITLE
+What would you recommend for somebody who enjoyed Back to the Future?,Synopsis,Back to the Future:MOVIE_TITLE
+Could you recommend a film comparable to Inception?,Synopsis,Inception:MOVIE_TITLE
+What's a movie akin to Frozen that you'd recommend?,Synopsis,Frozen:MOVIE_TITLE
+I'm interested in movies that share similarities with The Terminator. Any recommendations?,Synopsis,The Terminator:MOVIE_TITLE
+Can you recommend a film similar in tone to Harry Potter?,Synopsis,Harry Potter:MOVIE_TITLE
+Any suggestions for a movie similar to The Godfather?,Synopsis,The Godfather:MOVIE_TITLE
+What's a film reminiscent of The Princess Bride that you'd recommend?,Synopsis,The Princess Bride:MOVIE_TITLE
+I'm interested in movies that have the same intensity as Whiplash. What do you recommend?,Synopsis,Whiplash:MOVIE_TITLE
+What are some movies like Blade Runner 2049 that you'd suggest?,Synopsis,Blade Runner 2049:MOVIE_TITLE
+Any recommendations for classics similar to Casablanca?,Synopsis,Casablanca:MOVIE_TITLE
+Are there any movies out there like The Shape of Water in its unique storytelling?,Synopsis,The Shape of Water:MOVIE_TITLE
+Any suggestions for a film similar to La La Land in its celebration of music and romance?,Synopsis,La La Land:MOVIE_TITLE
+Looking for something as epic as Interstellar. Any ideas?,Synopsis,Interstellar:MOVIE_TITLE
+Any classic movies like Casablanca that you recommend?,Synopsis,Casablanca:MOVIE_TITLE
+Need some high-energy movies like Mad Max: Fury Road. Any favorites?,Synopsis,Mad Max: Fury Road:MOVIE_TITLE
+Any movies with mind-bending twists like Shutter Island?,Synopsis,Shutter Island:MOVIE_TITLE
+How about some films that capture the vibe of The Social Network?,Synopsis,The Social Network:MOVIE_TITLE
+Any good movies like The Hunger Games?,Synopsis,The Hunger Games:MOVIE_TITLE
+I need a good laugh. Something like Deadpool?,Synopsis,Deadpool:MOVIE_TITLE
+I need that intense vibe like The Dark Knight. What do you recommend?,Synopsis,The Dark Knight:MOVIE_TITLE
+How about a film with a tone similar to Harry Potter?,Synopsis,Harry Potter:MOVIE_TITLE
+Any unique storytelling movies like The Shape of Water?,Synopsis,The Shape of Water:MOVIE_TITLE
+Can you recommend a film comparable to Titanic?,Synopsis,Titanic:MOVIE_TITLE
+What's a movie similar to The Great Gatsby?,Synopsis,Great Gatsby:MOVIE_TITLE
+Can you recommend a movie with a storyline similar to Gone Girl?,Synopsis,Gone Girl:MOVIE_TITLE
+I'm searching for a film that captures the essence of The Godfather. Any ideas?,Synopsis,The Godfather:MOVIE_TITLE
+Are there any movies reminiscent of The Silence of the Lambs?,Synopsis,The Silence of the Lambs:MOVIE_TITLE
+What's a film similar to The Matrix Reloaded?,Synopsis,The Matrix Reloaded:MOVIE_TITLE
+I'm interested in finding movies with the same atmosphere as Blade Runner 2049. Any suggestions?,Synopsis,Blade Runner 2049:MOVIE_TITLE
+Can you recommend a movie similar to The Departed?,Synopsis,The Departed:MOVIE_TITLE
+What would you recommend for someone who enjoyed The Grand Budapest Hotel?,Synopsis,The Grand Budapest Hotel:MOVIE_TITLE
+Are there any movies out there similar to The Notebook in terms of romance?,Synopsis,The Notebook:MOVIE_TITLE
+Can you recommend a movie similar to The Social Network?,Synopsis,The Social Network:MOVIE_TITLE
+I'm craving a movie with the same suspense as Rear Window. Any recommendations?,Synopsis,Rear Window:MOVIE_TITLE
+What's a film similar to The Wizard of Oz that captures the magic of fantasy worlds?,Synopsis,The Wizard of Oz:MOVIE_TITLE
+Can you recommend a movie similar to The Truman Show in terms of its thought-provoking premise?,Synopsis,The Truman Show:MOVIE_TITLE
+Looking for a movie like The Green Mile that has strong emotions. Any recommendations?,Synopsis,The Green Mile:MOVIE_TITLE
+"I'm a huge Star Wars fan, any films you'd suggest that have a similar vibe?",Synopsis,Star Wars:MOVIE_TITLE
+Frozen was amazing! Got any suggestions for similar heartwarming animated films?,Synopsis,Frozen:MOVIE_TITLE
+The Terminator series always gets me pumped! Any other action-packed sci-fi flicks?,Synopsis,The Terminator:MOVIE_TITLE
+The Dark Knight's intensity had me hooked. What other films pack that kind of punch?,Synopsis,The Dark Knight:MOVIE_TITLE
+Back to the Future was a blast from the past! What other movies are similar to that?,Synopsis,Back to the Future:MOVIE_TITLE
+The Terminator's action was epic. Any other movies with that kind of energy?,Synopsis,The Terminator:MOVIE_TITLE
+Harry Potter's magical world always draws me in. Any similar films which would provide a story like that?,Synopsis,Harry Potter:MOVIE_TITLE
+"As a lover of classic cinema, I'm searching for a film reminiscent of Gone with the Wind. Any recommendations?",Synopsis,Gone with the Wind:MOVIE_TITLE
+Inglourious Bastards captivated me with its storytelling. Can you suggest another movie with a similar style?,Synopsis,Inglourious Bastards:MOVIE_TITLE
+I'm in the mood for a suspenseful thriller like Se7en. What would you recommend?,Synopsis,Se7en:MOVIE_TITLE
+Do you know joyful musicals similar to The Sound of Music?,Synopsis,The Sound of Music:MOVIE_TITLE
+Are there action-packed adventures like Jurassic Park?,Synopsis,Jurassic Park:MOVIE_TITLE
+Do you know terrifying horror movies like The Exorcist?,Synopsis,The Exorcist:MOVIE_TITLE
+Are there real-life event-centered dramas like The Social Network?,Synopsis,The Social Network:MOVIE_TITLE
+Are there gripping crime thrillers like Goodfellas?,Synopsis,Goodfellas:MOVIE_TITLE
+Are there gripping crime thrillers like Blade Runner 2049?,Synopsis,Blade Runner 2049:MOVIE_TITLE
+Can you suggest intriguing plot-driven films like The Prestige?,Synopsis,The Prestige:MOVIE_TITLE
+Do you know historical action films like Gladiator?,Synopsis,Gladiator:MOVIE_TITLE
+What's a movie similar to The Great Gatsby?,Synopsis,The Great Gatsby:MOVIE_TITLE
+Can you recommend a movie with a storyline similar to Gone Girl?,Synopsis,Gone Girl:MOVIE_TITLE
+Are there any movies reminiscent of The Silence of the Lambs?,Synopsis,The Silence of the Lambs:MOVIE_TITLE
+"As a lover of classic cinema, I'm searching for a film reminiscent of Gone with the Wind. Any recommendations?",Synopsis,Gone with the Wind:MOVIE_TITLE
+Do you know historical action films like Gladiator?,Synopsis,Gladiator:MOVIE_TITLE
+I'm in the mood for character-driven dramas similar to Whiplash.,Synopsis,Whiplash:MOVIE_TITLE
+Give me some recommendations similar to Avatar,Synopsis,Avatar:MOVIE_TITLE
+Can you recommend a film similar to Deadpool from a comedic sense,Synopsis,Deadpool:MOVIE_TITLE
+What movies are out there like Jurassic Park?,Synopsis,Jurassic Park:MOVIE_TITLE
+Can you recommend a film comparable to The Great Gatsby?,Synopsis,The Great Gatsby:MOVIE_TITLE
+Can you recommend a film comparable to Titanic?,Synopsis,Titanic:MOVIE_TITLE
+Could you suggest a film comparable to The Big Short?,Synopsis,The Big Short:MOVIE_TITLE
+Looking for a movie The Breakfast Club in terms of plot? ,Synopsis,The Breakfast Club:MOVIE_TITLE
+I'm craving a moview ith the same intensity as Saving Private Ryan. Any ideas?,Synopsis,Saving Private Ryan:MOVIE_TITLE
+Point me to a similar movie like Jurrasic Park.,Synopsis,Jurassic Park:MOVIE_TITLE
+Any recommendations for classics similar to Roadhouse?,Synopsis,Roadhouse:MOVIE_TITLE
+Searching for a movie with a similar style to Shutter Island. ,Synopsis,Shutter Island:MOVIE_TITLE
+Are there any movies out there which are similar to The Wizard of Oz?,Synopsis,The Wizard of Oz:MOVIE_TITLE
+Any films that mess with your head like The Matrix?,Synopsis,The Matrix:MOVIE_TITLE
+Looking for a film like The Breakfast Club?,Synopsis,The Breakfast Club:MOVIE_TITLE
+What's a movie similar to The Social Network?,Synopsis,The Social Network:MOVIE_TITLE
+Can you recommend a film similar to Fight Club that explores the darker side of society?,Synopsis,Fight Club:MOVIE_TITLE
+Looking for a movie like The Departed with its twists and turns?,Synopsis,The Departed:MOVIE_TITLE
+Can you recommend a film similar to The Incredibles that offers a fun-filled superhero experience?,Synopsis,The Incredibles:MOVIE_TITLE
+Any recommendations for a mystery like Knives Out with clever twists?,Synopsis,Knives Out:MOVIE_TITLE
+Searching for films similar to Mad Max: Fury Road for that high-octane action.,Synopsis,Mad Max: Fury Road:MOVIE_TITLE
+List some action movies.,Genre,Action:GENRE
+Can you recommend some action movies?,Genre,Action:GENRE
+Give me a list of popular romance movies.,Genre,Romance:GENRE
+What are some good sci-fi films to watch?,Genre,Sci-Fi:GENRE
+Any recommendations for horror movies with a psychological twist?,Genre,Horror:GENRE
+I'm in the mood for a thriller. What movies do you suggest?,Genre,Thriller:GENRE
+Do you have any recommendations for thought-provoking drama movies?,Genre,Drama:GENRE
+I need some light-hearted comedy films. Any suggestions?,Genre,Comedy:GENRE
+Give me sport films worth watching. ,Genre,Sport :GENRE
+What are some inspiring sport movies?,Genre,Sport:GENRE
+Do you have any recommendations for fantasy films?,Genre,Fantasy:GENRE
+Can you recommend any animation films?,Genre,Animation:GENRE
+Can you suggest any riveting war films?,Genre,War:GENRE
+What supernatural horror movies would you recommend?,Genre,Horror:GENRE
+What crime movies would you suggest?,Genre,Crime:GENRE
+Do you have any recommendations for adventure films?,Genre,Adventure:GENRE
+What are some notable musical movies?,Genre,Musical:GENRE
+Do you have suggestions for mystery films?,Genre,Mystery:GENRE
+What psychological thriller movies would you suggest?,Genre,Thriller:GENRE
+Do you have any recommendations for romance pieces?,Genre,Romance:GENRE
+Give me a list of fantasy movies.,Genre,Fantasy:GENRE
+What are some Mystery films I can watch? ,Genre,Mystery:GENRE
+Comedy movies are my favorite. What are some I can watch? ,Genre,Comedy:GENRE
+What are some romantic comedy movies?,Genre,Comedy:GENRE
+"It's near Halloween, I would love to know some horror movies to watch.",Genre,Horror:GENRE
+What are the best Western movies?,Genre,Western:GENRE
+I need a good Drama movie to watch with my family. Any ideas?,Genre,Drama:GENRE
+Mystery movies are some of my favorite to watch. Any suggestions? ,Genre,Mystery:GENRE
+What are some war movies to watch? ,Genre,War:GENRE
+Find me some history films.,Genre,History:GENRE
+Could you provide suggestions for action filled movies?,Genre,Action:GENRE
+I'm interested in discovering popular romance comedies. Can you list some?,Genre,Romance:GENRE
+What sci-fi films would you recommend for viewing?,Genre,Sci-Fi:GENRE
+I'm in the mood for a thriller. Any movie recommendations?,Genre,Thriller:GENRE
+I'm looking for light-hearted comedy movies. Any recommendations?,Genre,Comedy:GENRE
+Please recommend mystery movies that are worth watching.,Genre,Mystery:GENRE
+What are some inspiring sport films you'd recommend?,Genre,Sport:GENRE
+Do you have any suggestions for adventure films?,Genre,Adventure:GENRE
+Can you recommend any captivating animation films?,Genre,Animation:GENRE
+Give me a list of captivating Drama films. ,Genre,Drama:GENRE
+Do you have any recommendations for adventure films?,Genre,Adventure:GENRE
+Which crime movies would you recommend?,Genre,Crime:GENRE
+I'm interested in fantasy movies. Could you provide a list?,Genre,Fantasy:GENRE
+What mystery films would you suggest?,Genre,Mystery:GENRE
+Do you have any romance pieces to recommend?,Genre,Romance:GENRE
+"With Halloween approaching, I'd love some horror movie suggestions.",Genre,Horror:GENRE
+What are the best Western movies?,Genre,Western:GENRE
+Mystery movies are among my favorites. Can you suggest any?,Genre,Mystery:GENRE
+What war movies would you recommend?,Genre,War:GENRE
+Could you find some history films for me?,Genre,History:GENRE
+Can you suggest some adrenaline-pumping action flicks?,Genre,Action:GENRE
+I'm craving some mind-bending sci-fi films. What should I watch?,Genre,Sci-Fi:GENRE
+Do you know any emotionally stirring drama films worth watching?,Genre,Drama:GENRE
+I could use a good laugh. Any suggestions for light-hearted comedy movies?,Genre,Comedy:GENRE
+Can you suggest some compelling history films to dive into,Genre,History:GENRE
+Which crime movies do you think are a must-watch?,Genre,Crime:GENRE
+Can you recommend any heartwarming family drama films?,Genre,Drama:GENRE
+What are some biography films to watch? ,Genre,Biography:GENRE
+Give me a late-night mystery movie.,Genre,Mystery:GENRE
+What are some notable musical movies?,Genre,Musical:GENRE
+Any mystery films that keep you on the edge of your seat?,Genre,Mystery:GENRE
+I'm in the mood for romance. Any suggestions?,Genre,Romance:GENRE
+Give me a list of fantasy flicks to escape into.,Genre,Fantasy:GENRE
+Any war movies that are a must-see?,Genre,War:GENRE
+I'm in the mood for a comedy. What's good?,Genre,Comedy:GENRE
+Any animation features that'll capture my attention?,Genre,Animation:GENRE
+Adrenaline-pumping action flicks?,Genre,Action:GENRE
+Must-watch crime movies?,Genre,Crime:GENRE
+Late-night mystery movie suggestions?,Genre,Mystery:GENRE
+Any good action flicks you'd recommend?,Genre,Action:GENRE
+What are some popular romance films I should check out? ** ,Genre,Romance:GENRE
+Any riveting thriller films I shouldn't miss?,Genre,Thriller:GENRE
+Could you recommend some intriguing drama movies?,Genre,Drama:GENRE
+Give me action movies to watch.,Genre,Action:GENRE
+Give me crime movies to watch.,Genre,Crime:GENRE
+Give me romance movies to watch. ,Genre,Romance:GENRE
+Can you recommend some dramatic horror movies?,Genre,Horror:GENRE
+What are some good riveting horror films?,Genre,Horror:GENRE
+Do you have any recommendations for a war movie?,Genre,War:GENRE
+ Can you provide some suggestions for crime movies?,Genre,Crime:GENRE
+What horror movies with a mystery twist are available to watch?,Genre,Horror:GENRE
+Give me a list of interesting history films to watch.,Genre,History:GENRE
+What sci-fi thrillers would you suggest to watch?,Genre,Sci-Fi:GENRE
+What are some action-packed drama films you would suggest?,Genre,Drama:GENRE
+"I'm looking for thrilling Sci-Fi movies to watch, please give me suggestions.",Genre,Sci-Fi:GENRE
+Provide me some comedy movies?,Genre,Comedy:GENRE
+What are some movies which have an adventure storyline or element?,Genre,Adventure:GENRE
+Any war Western movies available to watch?,Genre,War:GENRE;Western:GENRE
+What are some musical films you would suggest?,Genre,Musical:GENRE
+Crime movies as well as drama movies are some of my favorite. Can you find movies with elements of both?,Genre,Crime:GENRE;Drama:GENRE
+Fantasy movies as well as action movies are some of my favorite. Can you find movies with elements of both?,Genre,Fantasy:GENRE;Action:GENRE
+Fantasy movies as well as romance movies are some of my favorite. Can you find movies with elements of both?,Genre,Fantasy:GENRE;Romance:GENRE
+War movies as well as comedy movies are some of my favorite. Can you find movies with elements of both?,Genre,War:GENRE;Comedy:GENRE
+"I am in the mood for a fantasy movie with horror elements, can you give me some suggestions?",Genre,Fantasy:GENRE;Horror:GENRE
+Can you recommend some comedy films with a drama element?,Genre,Comedy:GENRE;Drama:GENRE
+What are some romance movies mixed with drama worth watching?,Genre,Romance:GENRE;Drama:GENRE
+Do you have any recommendations for romance movies which also have a comedy element?,Genre,Romance:GENRE;Comedy:GENRE
+Can you suggest some drama films with a thriller component?,Genre,Drama:GENRE;Thriller:GENRE
+What are some horror movies you would recommend which also incorporate a thriller element?,Genre,Horror:GENRE;Thriller:GENRE
+Provide me with crime movies infused with comedy elements.,Genre,Crime:GENRE;Comedy:GENRE
+Recommend biography movies with drama elements.,Genre,Biography:GENRE;Drama:GENRE
+Can you suggest any war drama movies?,Genre,War:GENRE;Drama:GENRE
+What horror movies mixed with a mystery element are available to watch?,Genre,Horror:GENRE;Mystery:GENRE
+Give me a list of horror comedy films.,Genre,Horror:GENRE;Comedy:GENRE
+What action filled drama movies do you suggest?,Genre,Action:GENRE;Drama:GENRE
+Provide me with action movies mixed with a comedy element.,Genre,Action:GENRE;Comedy:GENRE
+Can you recommend any crime thriller films?,Genre,Crime:GENRE;Thriller:GENRE
+What family comedy films do you suggest?,Genre,Family:GENRE;Comedy:GENRE
+Give me musical movies with a drama component.,Genre,Musical:GENRE;Drama:GENRE
+Recommend some sci-fi horror films.,Genre,Sci-Fi:GENRE;Horror:GENRE
+Can you suggest any sport films with a comedy element?,Genre,Sport:GENRE;Comedy:GENRE
+What history movies mixed with drama would you recommend?,Genre,History:GENRE;Drama:GENRE
+Do you know any fantasy movies with an added comedy component?,Genre,Fantasy:GENRE;Comedy:GENRE
+Can you suggest adventure movies intertwined with horror?,Genre,Adventure:GENRE;Horror:GENRE
+Are there any Western war movies available to watch?,Genre,Western:GENRE;War:GENRE
+What musical movies do you suggest?,Genre,Musical:GENRE
+Can you find movies blending crime and drama?,Genre,Crime:GENRE;Drama:GENRE
+What about movies combining fantasy and action?,Genre,Fantasy:GENRE;Action:GENRE
+Can you recommend fantasy movies with a romance element added?,Genre,Fantasy:GENRE;Romance:GENRE
+Are there any war movies mixed with comedy worth watching?,Genre,War:GENRE;Comedy:GENRE
+I'm in the mood for a horror and fantasy movie. Any suggestions?,Genre,Horror:GENRE;Fantasy:GENRE
+Can you recommend films with both adventure and thriller elements?,Genre,Adventure:GENRE;Thriller:GENRE
+What are some drama movies with a western element worth watching?,Genre,Drama:GENRE;Western:GENRE
+Do you have any recommendations for sci-fi-thriller movies?,Genre,Sci-Fi:GENRE;Thriller:GENRE
+Can you suggest some crime drama films?,Genre,Crime:GENRE;Drama:GENRE
+Provide me with movies with mystery and thriller components.,Genre,Mystery:GENRE;Thriller:GENRE
+Recommend some action movies with an adventure element.,Genre,Action:GENRE;Adventure:GENRE
+Can you suggest any fantasy movies with an adventure element?,Genre,Fantasy:GENRE;Adventure:GENRE
+What about romance movies with a thriller element?,Genre,Romance:GENRE;Thriller:GENRE
+Give me a list of horror-sci-fi films.,Genre,Horror:GENRE;Sci-Fi:GENRE
+What animation movies which have a fantasy storyline do you recommend?,Genre,Animation:GENRE;Fantasy:GENRE
+Can you find movies blending comedy and mystery?,Genre,Comedy:GENRE;Mystery:GENRE
+What history drama films would you recommend?,Genre,History:GENRE;Drama:GENRE
+Are there any sci-fi adventure films available to watch?,Genre,Sci-Fi:GENRE;Adventure:GENRE
+Can you suggest drama films mixed with crime?,Genre,Drama:GENRE;Crime:GENRE
+What movies which has both action and thriller elements do you suggest?,Genre,Action:GENRE;Thriller:GENRE
+Give me musical and comedy films.,Genre,Musical:GENRE;Comedy:GENRE
+Recommend some family movies with an adventure twist.,Genre,Family:GENRE;Adventure:GENRE
+Can you suggest any war films with an action component?,Genre,War:GENRE;Action:GENRE
+What drama-mystery films are worth watching?,Genre,"Drama, Mystery:GENRE"
+Can you find drama films mixed with comedy that have a balance of laughter and depth?,Genre,Drama:GENRE;Comedy:GENRE
+Can you recommend movies that combine crime and drama elements?,Genre,Crime:GENRE;Drama:GENRE
+What are some fantasy films mixed with action which you recommend?,Genre,Fantasy:GENRE;Action:GENRE
+Recommend some biography films with a drama element.,Genre,Biography:GENRE;Drama:GENRE
+What western movies with a drama element are worth watching?,Genre,Western:GENRE;Drama:GENRE
+Give me musical films with an added comedy element,Genre,Musical:GENRE;Comedy:GENRE
+What animation movies based in fantasy do you recommend?,Genre,Animation:GENRE;Fantasy:GENRE
+Can you suggest adventure movies with a horror element?,Genre,Adventure:GENRE;Horror:GENRE
+Recommend me biography films with a history element added.,Genre,Biography:GENRE;History:GENRE
+Recommend some sci-fi horror films.,Genre,Sci-Fi:GENRE;Horror:GENRE
+I loved the balance of tension and rhythm in Whiplash.,Feedback,Whiplash:MOVIE_TITLE
+I was blown away by the visuals in Blade Runner 2049.,Feedback,Blade Runner 2049:MOVIE_TITLE
+I think Casablanca is a timeless classic because of its romantic story and memorable lines.,Feedback,Casablanca:MOVIE_TITLE
+I adore The Shape of Water for its beautiful take on unconventional love stories.,Feedback,The Shape of Water:MOVIE_TITLE
+I loved La La Land because it was so engaging as it brought back the magic of old musicals with its colors and songs.,Feedback,La La Land:MOVIE_TITLE
+Interstellar made me happy as it was incredible with its vast depiction of space and deep emotions.,Feedback,Interstellar:MOVIE_TITLE
+Mad Max: Fury Road was amazing as it revolutionized action movies with its fast pace and amazing visuals.,Feedback,Mad Max: Fury Road:MOVIE_TITLE
+"I really liked Shutter Island as it was gripping, always making me question what's real.",Feedback,Shutter Island':MOVIE_TITLE
+I enjoyed the societal insights and dynamic characters in The Social Network.,Feedback,The Social Network:MOVIE_TITLE
+I love Gone with the Wind it is a classic which was really good as it set a high standard for historical dramas with its epic scope and complex characters.,Feedback,Gone with the Wind:MOVIE_TITLE
+I love Inglourious Bastards by Tarantino because it is a brilliantly provocative revenge story.,Feedback,Inglourious Bastards:MOVIE_TITLE
+"I didn't like Se7en because it was too grim and bleak for me, overshadowing its clever plot.",Feedback,Se7en:MOVIE_TITLE
+I love The Sound of Music for its delightful songs and inspiring story.,Feedback,The Sound of Music:MOVIE_TITLE
+I was not a big fan of Jurassic Park because although it was visually impressive it lacked depth in its characters.,Feedback,Jurassic Park:MOVIE_TITLE
+The Exorcist terrified me with its mix of psychological and supernatural horror.,Feedback,The Exorcist:MOVIE_TITLE
+I did not enjoy The Social Network as it felt emotionally cold and didn’t engage me fully.,Feedback,The Social Network:MOVIE_TITLE
+I loved Goodfellas for its electrifying energy and stellar performances.,Feedback,Goodfellas:MOVIE_TITLE
+I was completely drawn in by the twists and turns of The Prestige.,Feedback,The Prestige:MOVIE_TITLE
+"Gladiator looked amazing, but its storyline was too predictable for me.",Feedback,Gladiator:MOVIE_TITLE
+"I was dazzled by The Great Gatsby's style, though it felt more about looks than substance.",Feedback,The Great Gatsby:MOVIE_TITLE
+The plot twists in Gone Girl felt too contrived and left me unsatisfied.,Feedback,Gone Girl:MOVIE_TITLE
+The Silence of the Lambs was a chilling masterpiece that stuck with me.,Feedback,The Silence of the Lambs:MOVIE_TITLE
+I was not a big fan of Avatar as it's stunning visuals couldn't make up for its overly simplistic story.,Feedback,Avatar:MOVIE_TITLE
+I felt let down by Divergent; it didn't live up to its potential.,Feedback,Divergent:MOVIE_TITLE
+"I found The Princess Diaries sweet, but the characters felt a bit flat to me.",Feedback,The Princess Diaries:MOVIE_TITLE
+"For me, Frozen started to drag in the middle, despite its stunning visuals.",Feedback,Frozen:MOVIE_TITLE
+"The modern adaptation of Romeo and Juliet was creative, but it didn’t capture the original’s poetic beauty as I had hoped.",Feedback,Romeo and Juliet:MOVIE_TITLE
+"Tangled was engaging, yet I wished for more depth in its characters.",Feedback,Tangled:MOVIE_TITLE
+I really enjoyed The Princess and the Frog for its vibrant animation and memorable tunes.,Feedback,The Princess and the Frog:MOVIE_TITLE
+I felt Good Luck Charlie: It's Christmas was too predictable and overly sentimental for my liking.,Feedback,Good Luck Charlie: It's Christmas:MOVIE_TITLE
+"Lemonade Mouth really resonated with me, delivering an inspiring story about friendship and self-expression, complete with a catchy soundtrack.",Feedback,Lemonade Mouth:MOVIE_TITLE
+Starstruck disappointed me with its predictable and formulaic plot.,Feedback,Starstruck:MOVIE_TITLE
+"I was captivated by Frozen 2, which beautifully expanded Arendelle's magical world and deepened its characters.",Feedback,Frozen 2:MOVIE_TITLE
+"While Moana was visually stunning, I found its plot occasionally too predictable and not fully exploring its innovative themes.",Feedback,Moana:MOVIE_TITLE
+Cinderella enchanted me again with its magical visuals and timeless charm.,Feedback,Cinderella:MOVIE_TITLE
+"The Little Mermaid was overshadowed by traditional gender roles, which diluted its more progressive themes for me.",Feedback,The Little Mermaid:MOVIE_TITLE
+"Bambi deeply moved me with its poignant exploration of nature and growth, told through beautiful animation.",Feedback,Bambi:MOVIE_TITLE
+Dumbo’s outdated moments felt uncomfortable and clashed with today’s values for me.,Feedback,Dumbo:MOVIE_TITLE
+Peter Pan’s imaginative tale is marred by cultural depictions that I find problematic today.,Feedback,Peter Pan:MOVIE_TITLE
+Melody Time was a delightful showcase of varied artistic styles and music that I really enjoyed.,Feedback,Melody Time:MOVIE_TITLE
+"Zapped just seemed too reliant on clichéd teen tropes, making it uninspiring for me.",Feedback,Zapped:MOVIE_TITLE
+"I found The Lion King stunning in terms of animation and score, but its story lacked originality.",Feedback,The Lion King:MOVIE_TITLE
+"I enjoyed Aladdin’s magical journey as a visual treat, though I noticed some characters were underdeveloped",Feedback,Aladdin:MOVIE_TITLE
+"I appreciated how Mulan’s narrative was beautifully portrayed and empowering, but I wished for more cultural depth.",Feedback,Mulan:MOVIE_TITLE
+"I think Zootopia cleverly tackled themes of diversity and inclusion, though it sometimes slipped into predictability.",Feedback,Zootopia:MOVIE_TITLE
+I felt Frozen was too dependent on its musical numbers and missed deeper character development.,Feedback,Frozen:MOVIE_TITLE
+I found Finding Nemo’s combination of stunning animation and heartfelt storytelling to be a touching oceanic adventure for me.,Feedback,Finding Nemo:MOVIE_TITLE
+I was less engaged by Toy Story's simple conflict compared to the deeper emotional journeys in its sequels.,Feedback,Toy Story:MOVIE_TITLE
+"I continue to be enchanted by Beauty and the Beast with its rich animations and classic soundtrack, which define Disney's golden age for me.",Feedback,Beauty and the Beast:MOVIE_TITLE
+I adore The Notebook for its romantic drama.,Feedback,The Notebook:MOVIE_TITLE
+I dislike the slow pace of Pride and Prejudice.,Feedback,Pride and Prejudice:MOVIE_TITLE
+I'm not a fan of Dunkirk's non-linear storytelling.,Feedback,Dunkirk:MOVIE_TITLE
+I love the comedy in The Hangover.,Feedback,The Hangover:MOVIE_TITLE
+I dislike Coco's overemphasis on music.,Feedback,Coco:MOVIE_TITLE
+I'm moved by the raw grief depicted in Manchester by the Sea.,Feedback,Manchester by the Sea:MOVIE_TITLE
+I hate the jarring editing in Moulin Rouge.,Feedback,Moulin Rouge:MOVIE_TITLE
+I enjoy the thrilling action in Pirates of the Caribbean.,Feedback,Pirates of the Caribbean:MOVIE_TITLE
+I dislike the excessive sentimentality in Pursuit of Happyness.,Feedback,The Pursuit of Happyness:MOVIE_TITLE
+I love the psychological depth in Black Swan.,Feedback,Black Swan:MOVIE_TITLE
+I hate the historical inaccuracies in The Imitation Game.,Feedback,The Imitation Game:MOVIE_TITLE
+"This movie, Breakfast at Tiffany's, feels outdated to me.",Feedback,Breakfast at Tiffany's:MOVIE_TITLE
+I dislike the tone shift in Prisoner of Azkaban.,Feedback,Harry Potter and the Prisoner of Azkaban:MOVIE_TITLE
+Black Swan was too intense for my liking.,Feedback,Black Swan:MOVIE_TITLE
+I love the tragic romance in Titanic.,Feedback,Titanic:MOVIE_TITLE
+I'm confused by The Matrix's dense philosophy.,Feedback,The Matrix:MOVIE_TITLE
+Forrest Gump's portrayal of history seems trivial to me.,Feedback,Forrest Gump:MOVIE_TITLE
+I'm inspired by the hope in The Shawshank Redemption.,Feedback,The Shawshank Redemption:MOVIE_TITLE
+"Crazy, Stupid, Love was too predictable for my taste.",Feedback,"Crazy, Stupid, Love:MOVIE_TITLE"
+I dislike the clichés in 10 Things I Hate About You.,Feedback,10 Things I Hate About You:MOVIE_TITLE
+The Proposal was terrible in terms of plot believability.,Feedback,The Proposal:MOVIE_TITLE
+"I find Notting Hill's fairy-tale romance too idealistic and detached from the complexities of real relationships, which might disappoint viewers looking for more realism.",Feedback,Notting Hill:MOVIE_TITLE
+"I love When Harry Met Sally for its iconic take on rom-coms, exploring male-female friendships with a blend of humor and genuine authenticity that resonates deeply with me.",Feedback,When Harry Met Sally:MOVIE_TITLE
+"I think the erratic pacing and blend of drama and comedy in Silver Linings Playbook might not resonate with everyone, including me, as it blurs traditional genre boundaries in a way that can be unsettling.",Feedback,Silver Linings Playbook:MOVIE_TITLE
+"I adore Bridget Jones's Diary for its hilarious and heartfelt exploration of modern romance, greatly enhanced by Renée Zellweger's charming and relatable performance.",Feedback,Bridget Jones's Diary:MOVIE_TITLE
+"I am a huge fan of Forgetting Sarah Marshall, which brilliantly mixes humor with the heartbreak of breakups in a way that feels refreshingly honest and poignant.",Feedback,Forgetting Sarah Marshall:MOVIE_TITLE
+"I love how Love Actually weaves multiple romantic stories into a delightful holiday tapestry, capturing the joy and complexity of relationships in a way that warms my heart.",Feedback,Love Actually:MOVIE_TITLE
+"I find The Big Sick's slow pacing a bit of a drag as it explores its themes methodically, which might not click with all audiences looking for a quicker narrative.",Feedback,The Big Sick:MOVIE_TITLE
+"I admire Die Hard for redefining the action genre with its thrilling plot and Bruce Willis's iconic performance, setting a high standard for action-packed cinema that excites me every time.",Feedback,Die Hard:MOVIE_TITLE
+"I feel the relentless pace of Mad Max: Fury Road might overwhelm those, like me, who prefer their action films with more dialogue and character interaction.",Feedback,Mad Max: Fury Road:MOVIE_TITLE
+"I enjoy John Wick immensely for its non-stop action and compelling revenge plot, solidified by Keanu Reeves' stoic and riveting performance.",Feedback,John Wick:MOVIE_TITLE
+"I find The Bourne Identity thrilling but sometimes too formulaic, especially when compared to more intricate and unpredictable spy thrillers.",Feedback,The Bourne Identity:MOVIE_TITLE
+I'm amazed by Mission: Impossible for its spectacular stunts and intricate plots that consistently keep me on the edge of my seat.,Feedback,Mission: Impossible:MOVIE_TITLE
+"I think the dark and intense tone of The Dark Knight might be overwhelming for those who prefer lighter, more traditional superhero movies.",Feedback,The Dark Knight:MOVIE_TITLE
+I feel that Lethal Weapon's portrayal of mental health and interpersonal relationships is dated and problematic by today's standards.,Feedback,Lethal Weapon:MOVIE_TITLE
+"I admire The Terminator as a groundbreaking sci-fi film that showcases Arnold Schwarzenegger in his iconic role, blending compelling action with a chilling vision of artificial intelligence.",Feedback,The Terminator:MOVIE_TITLE
+"I love Indiana Jones and the Last Crusade for its thrilling adventure, witty dialogue, and strong father-son dynamics, creating an enjoyable film experience.",Feedback,Indiana Jones and the Last Crusade:MOVIE_TITLE
+"I'm captivated by The Giver, which captures the haunting beauty of its source material through stark cinematography and thought-provoking themes about society and memory.",Feedback,The Giver:MOVIE_TITLE
+"I find the plot of Insurgent jumbled and unfocused, detracting from character development with too many elements thrown in.",Feedback,Insurgent:MOVIE_TITLE
+"I am touched by The Fault in Our Stars for its heartfelt portrayal of young love and tragedy, enhanced by strong performances and sensitive direction.",Feedback,The Fault in Our Stars:MOVIE_TITLE
+"I think Paper Towns may disappoint those looking for more depth, as it sometimes glosses over the complexities it tries to explore.",Feedback,Paper Towns:MOVIE_TITLE
+"I find the narrative of City of Bones overstuffed and confusing, struggling to balance expansive lore with cohesive storytelling.",Feedback,City of Bones:MOVIE_TITLE
+"I enjoy Beautiful Creatures for blending Southern Gothic charm with supernatural fantasy, offering a unique twist on the teen romance genre.",Feedback,Beautiful Creatures:MOVIE_TITLE
+"I'm disappointed by The Lightning Thief's deviations from the book, which result in a less engaging and diluted narrative.",Feedback,Percy Jackson & the Olympians: The Lightning Thief:MOVIE_TITLE
+"I find The Twilight Saga: Eclipse enriches the central love triangle, offering more intense emotions and heightened stakes for fans.",Feedback,The Twilight Saga: Eclipse:MOVIE_TITLE
+"I feel The Twilight Saga: Breaking Dawn – Part 1 is often drawn out and slow, lacking the action or intrigue to fully hold my interest.",Feedback,The Twilight Saga: Breaking Dawn – Part 1:MOVIE_TITLE
+"I think The Twilight Saga: Breaking Dawn – Part 2, while visually dramatic, feels overly melodramatic and strays into absurdity, diminishing its climactic impact.",Feedback,The Twilight Saga: Breaking Dawn – Part 2:MOVIE_TITLE
+"I find the plot of Eternal Shadows overly complex and murky, making it hard for viewers to stay engaged or understand the stakes.",Feedback,Eternal Shadows:MOVIE_TITLE
+"I'm intrigued by Beyond the Horizon, which offers a visionary look into the future with innovative storytelling and compelling speculative concepts.",Feedback,Beyond the Horizon:MOVIE_TITLE
+"I believe City of Dreams, while ambitious, struggles with a disjointed narrative and underdeveloped characters, diluting its impact.",Feedback,City of Dreams:MOVIE_TITLE
+I enjoy The Last Stand for being an action-packed thriller that keeps me on the edge of my seat with its relentless pacing and robust performances.,Feedback,The Last Stand:MOVIE_TITLE
+"I appreciate Ocean's Echo for combining mystery with a hauntingly beautiful maritime setting, creating a suspenseful and visually stunning film.",Feedback,Ocean's Echo:MOVIE_TITLE
+"I think Whispering Willows, while picturesque, lacks a strong narrative drive, which might leave viewers feeling unsatisfied with its slower pace.",Feedback,Whispering Willows:MOVIE_TITLE
+"I'm excited by Starlight Voyage, which offers an exhilarating space adventure with dazzling visuals and a captivating ensemble cast.",Feedback,Starlight Voyage:MOVIE_TITLE
+"I find Sands of Time sometimes gets bogged down in historical minutiae, which detracts from its pacing and dramatic tension.",Feedback,Sands of Time:MOVIE_TITLE
